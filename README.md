@@ -1,22 +1,30 @@
-House Robbery By ÆX#5891
+House Robbery System by ÆX#5891
 -
-This is a script for FiveM which allows players to break into houses and steal items, players can be busted by the residents or earn 'X' amount of money if they manage not to.
+Highly Customisable and top working House Robbery Script for FiveM
 
-Features
+How to Install?
 -
-Configurable houses, pickups and residents
-Noise detection
-Time based
-Qbus Support
+* Download the latest Release of aex-houserobbery
+* Copy the Folder into your resources/ folder
+* Add ensure aex-houserobbery to your server.cfg
+* Change stuff in the "config.lua" file to your prefered settings
+* Have fun using the Script 
 
-How to use
+Support
 -
-Clone or download the required files
-Put aex-houserobbery in your resources folder
-Add start aex-houserobbery to your server.cfg
-Add the items below inside of your qb-core/shared.lua
+If you need any kind of Support, feel free to open an Issue.
 
-Configuration
+Donate
 -
-All configuration settings are in config.lua,
-can also be used as example for making another framework implementation
+If you like my work, you can Support me by donating to me
+> Paypal: tarijayden@gmail.com
+
+License
+-
+Copyright (C) 2021 - AEXDevelopmentTeam
+
+This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
+
+This program Is distributed In the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty Of MERCHANTABILITY Or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License For more details.
+
+You should have received a copy Of the GNU General Public License along with this program. If Not, see http://www.gnu.org/licenses/.
